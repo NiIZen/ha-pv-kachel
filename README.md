@@ -5,6 +5,15 @@ Als kleine Kachel zeigt sie die aktuelle Leistung und den Tagesertrag. Ein Tippe
 
 *English version below.*
 
+<p align="center">
+  <img src="images/uebersicht.png" width="380" alt="PV-Kachel: kleine Kachel und aufgeklappte Detailansicht">
+</p>
+
+<p align="center">
+  <img src="images/tagesverlauf.png" width="380" alt="Tagesverlauf mit Ablesen per Finger und Vergleich zu gestern">
+  <br><sub>Beispielbilder mit Demo-Daten · <i>Screenshots with demo data</i></sub>
+</p>
+
 ---
 
 ## Funktionen
